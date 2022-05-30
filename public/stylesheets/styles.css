@@ -4,4 +4,20 @@ light-blue: #2081c3;
 dark-blue: #0a2c42;
 grey: #bfbfbf;
 font-family: Arial, Helvetica, sans-serif;
-*/
+
+
+.myNavbar{
+    background-color: rgb(0, 230, 138);
+    font-weight: bold;
+    color: white !important;
+    position: fixed;
+    z-index: 1000;
+    width: 100%;
+  }
+  .nav{
+      background-color: rgb(0, 230, 138);
+      font-weight: bold;
+      text-align: center;
+      color: white !important;
+  }
+  */
